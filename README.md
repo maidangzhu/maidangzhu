@@ -4,7 +4,7 @@
 
 🎨 希望能在编辑器领域持续发展
 
-💻 React + TypeScript + Canvas
+💻 React + TypeScript + Canvas + TailwindCSS
 
 🌱 2023年的主要学习方向是前端工程化、Canvas、Node.js
 
