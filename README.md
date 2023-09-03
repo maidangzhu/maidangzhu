@@ -2,10 +2,10 @@
 
 👨‍💻 文科转码，3年工作经验
 
-🎨 希望能在编辑器领域或者前端工程化方向持续发展
+🎨 希望能在前端工程化方向持续发展
 
-💻 React + TypeScript + Canvas + TailwindCSS + React-Query + Node.js
+💻 React + TypeScript + TailwindCSS + React-Query + Node.js
 
-🌱 2023年的主要学习方向是前端工程化、Canvas、Node.js
+🌱 目前的主要学习方向是前端工程化、Node.js（cli、web server 相关）
 
 📫 borisdunk@sina.com
