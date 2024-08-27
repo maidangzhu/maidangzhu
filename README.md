@@ -2,7 +2,8 @@
 
 👨‍💻 文科转码，4 年工作经验，2024 年的目标是转型成为全栈开发和进大厂！
 
-文档项目：https://www.magicapp.club/
+文档项目 beta：https://www.magicapp.club/
+
 麦橘ai：开发中！
 
 💻 React + Next + TypeScript + TailwindCSS + Node.js
