@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 文科转码，4 年工作经验，2024 年的目标是转型成为全栈开发和进大厂！
+👨‍💻 文科转码，4 年工作经验
 
 麦麦Doc beta：https://www.magicapp.club/
 
