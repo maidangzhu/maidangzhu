@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-👨‍💻 文科转码，4 年工作经验
+👨‍💻 我叫麦当，文科转码，全栈工程师，独立开发者
 
-麦麦Doc beta：https://www.magicapp.club/
+🍔 通过不停的创作来战胜焦虑
 
-麦橘ai：开发中！
+### 个人项目：
+
+- 麦麦Doc ：https://www.magicapp.club/
+
+- 麦橘 AI：浏览器 AI 插件助手，预计 9 月底上线，敬请期待！
 
 💻 React + Next + TypeScript + TailwindCSS + Node.js
 
