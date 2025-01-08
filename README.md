@@ -4,12 +4,6 @@
 
 🍔 通过不停的创作来战胜焦虑
 
-### 个人项目：
-
-- 麦麦Doc ：https://www.magicapp.club/
-
-- 麦橘 AI：浏览器 AI 插件助手，预计 9 月底上线，敬请期待！
-
 💻 React + Next + TypeScript + TailwindCSS + Node.js
 
 📫 borisdunk@sina.com
