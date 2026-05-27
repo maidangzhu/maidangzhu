@@ -4,7 +4,7 @@
 
 🍔 通过不停的创作来战胜焦虑
 
-💻 React + Next + TypeScript + TailwindCSS + Node.js
+💻 Building Percent
 
 📫 borisdunk@sina.com
 
