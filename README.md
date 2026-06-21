@@ -6,4 +6,6 @@
 
 💻 Building [Percent](https://github.com/maidangzhu/percent)
 
+🕸 [Newsletter](https://maidang.me)
+
 📫 borisdunk@sina.com
